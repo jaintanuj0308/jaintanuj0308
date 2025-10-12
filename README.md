@@ -12,6 +12,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=jaintanuj0308&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaintanuj0308&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=jaintanuj0308&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -19,11 +26,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jaintanuj0308&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 <!--
 **jaintanuj0308/jaintanuj0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
