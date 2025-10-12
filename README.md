@@ -19,7 +19,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=jaintanuj0308&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 <!--
 **jaintanuj0308/jaintanuj0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
