@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hi 👋, i'm Tanuj Jain 
-<br>🌱 I’m currently learning react.js and react native <br>
+# 💫 About Me:
+Hi 👋, I'm Tanuj Jain  
+💻 Software Engineering Student passionate about tech    
+🚀 Building modern web apps with clean UI  
+⚡ Always learning, creating, and growing
 
 
 ## 🌐 Socials:
