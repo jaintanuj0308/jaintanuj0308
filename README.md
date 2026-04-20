@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 Hi 👋, I'm Tanuj Jain  
 💻 Software Engineering Student passionate about tech    
 🚀 Building modern web apps with clean UI  
